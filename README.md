@@ -41,3 +41,4 @@
 36. 삽입정렬
 37. Least Recently Used (삽입정렬 코드 스타일 : 카카오)
 38. Inversion Sequence (삽입정렬 코드스타일) 💛
+39. 두 배열 합치기(병합정렬 예비학습)
