@@ -40,3 +40,4 @@
 35. Special Sort (버블정렬 응용: 구글 인터뷰)
 36. 삽입정렬
 37. Least Recently Used (삽입정렬 코드 스타일 : 카카오)
+38. Inversion Sequence (삽입정렬 코드스타일)
