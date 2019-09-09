@@ -78,3 +78,4 @@
 73. 최대힙(priority_queue : 우선순위큐)
 74. 최소힙(priority_queue : 우선순위큐)
 75. 최대 수입 스케쥴(priority queue greedy: 구조체와 Vector를 이용한 정렬) 🖤
+76. 이항계수(메모이제이션)
