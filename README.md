@@ -80,3 +80,4 @@
 75. 최대 수입 스케쥴(priority queue greedy: 구조체와 Vector를 이용한 정렬) 🖤
 76. 이항계수(메모이제이션)
 77. 친구인가?(Union&Find 자료구조)
+78. 원더랜드(Kruskal MST 알고리즘 : Union&Find 활용)
